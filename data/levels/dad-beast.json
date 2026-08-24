@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "titleAsset": "storymenu/titles/week1",
+    "props": [],
+    "capsule": {
+        "offsets": [20, 0],
+        "name": "DADBATTLE AMtake"
+    },
+    "background": "#000000",
+    "songs": [
+        "dad-beast"
+    ],
+    "visible": false,
+    "name": "dad beast"
+}

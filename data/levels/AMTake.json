@@ -1,0 +1,104 @@
+{
+	"version": "1.0.0",
+	"titleAsset": "storymenu/titles/week1",
+	"props": [
+		{
+			"danceEvery": 1,
+			"offsets": [
+				50,
+				-150
+			],
+			"isPixel": false,
+			"assetPath": "storymenu/props/DADDY_DEAREST_MENU",
+			"alpha": 1,
+			"scale": 0.4,
+			"animations": [
+				{
+					"renderType": "",
+					"offsets": [
+						0,
+						0
+					],
+					"frameIndices": [],
+					"prefix": "daddy menu",
+					"looped": false,
+					"name": "idle",
+					"flipX": false,
+					"animType": "framelabel",
+					"flipY": false,
+					"frameRate": 24,
+					"assetPath": null,
+					"atlasSettings": null
+				}
+			]
+		},
+		{
+			"danceEvery": 1,
+			"offsets": [
+				500,
+				30
+			],
+			"isPixel": false,
+			"assetPath": "storymenu/props/BF_STANDART_MENU",
+			"alpha": 1,
+			"scale": 0.5,
+			"animations": [
+				{
+					"renderType": "",
+					"offsets": [
+						0,
+						0
+					],
+					"frameIndices": [],
+					"prefix": "bf menu",
+					"looped": false,
+					"name": "idle",
+					"flipX": false,
+					"animType": "framelabel",
+					"flipY": false,
+					"frameRate": 24,
+					"assetPath": null,
+					"atlasSettings": null
+				}
+			]
+		},
+		{
+			"danceEvery": 1,
+			"offsets": [
+				-230,
+				50
+			],
+			"isPixel": false,
+			"assetPath": "storymenu/props/GF_STANDART_MENU",
+			"alpha": 1,
+			"scale": 0.8,
+			"animations": [
+				{
+					"renderType": "",
+					"offsets": [
+						0,
+						0
+					],
+					"frameIndices": [],
+					"prefix": "gf menu",
+					"looped": false,
+					"name": "idle",
+					"flipX": false,
+					"animType": "framelabel",
+					"flipY": false,
+					"frameRate": 24,
+					"assetPath": null,
+					"atlasSettings": null
+				}
+			]
+		}
+	],
+	"capsule": null,
+	"background": "#A67474",
+	"songs": [
+		"Bopeebo AMTake",
+		"Fresh AMTake"
+	],
+	"visible": true,
+	"name": "AMTake"
+}
