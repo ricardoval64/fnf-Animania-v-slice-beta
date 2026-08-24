@@ -1,0 +1,201 @@
+{
+  "version": "1.1.0",
+  "name": "Animania'",
+  "author": "PhantomArcade",
+  "fallback": null,
+  "assets": {
+    "note": {
+      "assetPath": "shared:NOTE-AN_assets",
+      "scale": 0.7,
+      "data": {
+        "left": { "prefix": "purple" },
+        "down": { "prefix": "blue" },
+        "up": { "prefix": "green" },
+        "right": { "prefix": "red" }
+      }
+    },
+    "noteStrumline": {
+      "assetPath": "shared:NOTE-AN_assets",
+      "scale": 0.7,
+      "offsets": [20, 20],
+      "data": {
+        "leftStatic": { "prefix": "arrowLEFT" },
+        "leftPress": { "prefix": "left press" },
+        "leftConfirm": { "prefix": "left confirm" },
+        "leftConfirmHold": { "prefix": "left confirm" },
+        "downStatic": { "prefix": "arrowDOWN" },
+        "downPress": { "prefix": "down press" },
+        "downConfirm": { "prefix": "down confirm" },
+        "downConfirmHold": { "prefix": "down confirm" },
+        "upStatic": { "prefix": "arrowUP" },
+        "upPress": { "prefix": "up press" },
+        "upConfirm": { "prefix": "up confirm" },
+        "upConfirmHold": { "prefix": "up confirm" },
+        "rightStatic": { "prefix": "arrowRIGHT" },
+        "rightPress": { "prefix": "right press" },
+        "rightConfirm": { "prefix": "right confirm" },
+        "rightConfirmHold": { "prefix": "right confirm" }
+      }
+    },
+    "holdNote": {
+      "assetPath": "NOTE_hold_assets",
+      "scale": 0.7,
+      "data": {}
+    },
+    "noteSplash": {
+      "assetPath": "shared:noteSplashes-AN",
+      "alpha": 0.8,
+      "offsets": [25, -5],
+      "data": {
+        "enabled": true,
+        "leftSplashes": [
+          { "prefix": "note splash purple 1" },
+          { "prefix": "note splash purple 1" }
+        ],
+        "rightSplashes": [
+          { "prefix": "note splash red 1" },
+          { "prefix": "note splash red 1" }
+        ],
+        "upSplashes": [
+          { "prefix": "note splash green 2" },
+          { "prefix": "note splash green 2" }
+        ],
+        "downSplashes": [
+          { "prefix": "note splash blue 2" },
+          { "prefix": "note splash blue 2" }
+        ]
+      }
+    },
+    "holdNoteCover": {
+      "assetPath": "",
+      "offsets": [0, 0],
+      "data": {
+        "enabled": true,
+        "left": {
+          "assetPath": "shared:holdCoverPurple",
+          "start": { "prefix": "holdCoverStartPurple" },
+          "hold": { "prefix": "holdCoverPurple" },
+          "end": { "prefix": "holdCoverEndPurple" }
+        },
+        "right": {
+          "assetPath": "shared:holdCoverRed",
+          "start": { "prefix": "holdCoverStartRed" },
+          "hold": { "prefix": "holdCoverRed" },
+          "end": { "prefix": "holdCoverEndRed" }
+        },
+        "up": {
+          "assetPath": "shared:holdCoverGreen",
+          "start": { "prefix": "holdCoverStartGreen" },
+          "hold": { "prefix": "holdCoverGreen" },
+          "end": { "prefix": "holdCoverEndGreen" }
+        },
+        "down": {
+          "assetPath": "shared:holdCoverBlue",
+          "start": { "prefix": "holdCoverStartBlue" },
+          "hold": { "prefix": "holdCoverBlue" },
+          "end": { "prefix": "holdCoverEndBlue" }
+        }
+      }
+    },
+    "countdownThree": {
+      "data": {
+        "audioPath": "shared:gameplay/countdown/funkin/introTHREE"
+      },
+      "assetPath": null
+    },
+    "countdownTwo": {
+      "data": {
+        "audioPath": "shared:gameplay/countdown/funkin/introTWO"
+      },
+      "assetPath": "shared:ui/countdown/Animania/ready",
+      "scale": 1.0,
+      "isPixel": false
+    },
+    "countdownOne": {
+      "data": {
+        "audioPath": "shared:gameplay/countdown/funkin/introONE"
+      },
+      "assetPath": "shared:ui/countdown/Animania/set",
+      "scale": 1.0,
+      "isPixel": false
+    },
+    "countdownGo": {
+      "data": {
+        "audioPath": "shared:gameplay/countdown/funkin/introGO"
+      },
+      "assetPath": "shared:ui/countdown/Animania/go",
+      "scale": 1.0,
+      "isPixel": false
+    },
+    "judgementSick": {
+      "assetPath": "default:ui/popup/Animania/sick",
+      "scale": 0.65,
+      "isPixel": false
+    },
+    "judgementGood": {
+      "assetPath": "default:ui/popup/Animania/good",
+      "scale": 0.65,
+      "isPixel": false
+    },
+    "judgementBad": {
+      "assetPath": "default:ui/popup/Animania/bad",
+      "scale": 0.65,
+      "isPixel": false
+    },
+    "judgementShit": {
+      "assetPath": "default:ui/popup/Animania/shit",
+      "scale": 0.65,
+      "isPixel": false
+    },
+    "comboNumber0": {
+      "assetPath": "default:ui/popup/Animania/num0",
+      "isPixel": false,
+      "scale": 0.45
+    },
+    "comboNumber1": {
+      "assetPath": "default:ui/popup/Animania/num1",
+      "isPixel": false,
+      "scale": 0.45
+    },
+    "comboNumber2": {
+      "assetPath": "default:ui/popup/Animania/num2",
+      "isPixel": false,
+      "scale": 0.45
+    },
+    "comboNumber3": {
+      "assetPath": "default:ui/popup/Animania/num3",
+      "isPixel": false,
+      "scale": 0.45
+    },
+    "comboNumber4": {
+      "assetPath": "default:ui/popup/Animania/num4",
+      "isPixel": false,
+      "scale": 0.45
+    },
+    "comboNumber5": {
+      "assetPath": "default:ui/popup/Animania/num5",
+      "isPixel": false,
+      "scale": 0.45
+    },
+    "comboNumber6": {
+      "assetPath": "default:ui/popup/Animania/num6",
+      "isPixel": false,
+      "scale": 0.45
+    },
+    "comboNumber7": {
+      "assetPath": "default:ui/popup/Animania/num7",
+      "isPixel": false,
+      "scale": 0.45
+    },
+    "comboNumber8": {
+      "assetPath": "default:ui/popup/Animania/num8",
+      "isPixel": false,
+      "scale": 0.45
+    },
+    "comboNumber9": {
+      "assetPath": "default:ui/popup/Animania/num9",
+      "isPixel": false,
+      "scale": 0.45
+    }
+  }
+}
