@@ -1,0 +1,67 @@
+{
+ "version": "2.2.4",
+ "songName": "Bopeebo AMTake",
+ "artist": "leebert, d4rkwinged",
+ "charter": "Harxeret",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "bf_amtake",
+   "girlfriend": "gf_amtake",
+   "opponent": "dad_amtake",
+   "opponentVocals": [
+    "dad_amtake"
+   ],
+   "playerVocals": [
+    "bf_amtake"
+   ]
+  },
+  "stage": "main-AN",
+  "noteStyle": "Animania",
+  "ratings": {
+   "easy": 4,
+   "normal": 5,
+   "hard": 6
+  },
+  "album": "AMTake",
+  "previewEnd": 0
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.4",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 2312.0909,
+   "b": 4.2388,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 11742.0001,
+   "b": 21.527,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 11780.0001,
+   "b": 21.5967,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 58775.5455,
+   "b": 107.7552,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}
