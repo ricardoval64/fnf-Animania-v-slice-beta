@@ -1,0 +1,200 @@
+{
+ "version": "1.0.2",
+ "name": "main-AN",
+ "props": [
+  {
+   "assetPath": "AmTakeStage/stageback",
+   "atlasSettings": null,
+   "name": "stageblack",
+   "position": [-1010, -340],
+   "scale": 2,
+   "startingAnimation": ""
+  },
+  {
+   "assetPath": "AmTakeStage/stageback",
+   "atlasSettings": null,
+   "name": "stageblack (1)",
+   "position": [1700, -370],
+   "scale": 2,
+   "startingAnimation": ""
+  },
+  {
+   "assetPath": "AmTakeStage/stageback",
+   "atlasSettings": null,
+   "name": "stageblack (1) (1)",
+   "position": [-4093, -340],
+   "scale": 2,
+   "startingAnimation": ""
+  },
+  {
+   "assetPath": "AmTakeStage/stagefront",
+   "atlasSettings": null,
+   "name": "stagefront",
+   "position": [-1000, 600],
+   "scale": 2,
+   "startingAnimation": "",
+   "zIndex": 1
+  },
+  {
+   "animations": [
+    {
+     "animType": null,
+     "assetPath": null,
+     "atlasSettings": null,
+     "name": "idle",
+     "prefix": "beat",
+     "renderType": null
+    }
+   ],
+   "assetPath": "AmTakeStage/gf-speakers",
+   "atlasSettings": null,
+   "name": "gf-speakers",
+   "position": [120, 420],
+   "scale": 1.6,
+   "startingAnimation": "idle",
+   "zIndex": 2
+  },
+  {
+   "animations": [
+    {
+     "animType": null,
+     "assetPath": null,
+     "atlasSettings": null,
+     "frameRate": 12,
+     "looped": true,
+     "name": "idle",
+     "prefix": "left speakers",
+     "renderType": null
+    }
+   ],
+   "assetPath": "AmTakeStage/left-speakers",
+   "atlasSettings": null,
+   "name": "left",
+   "position": [-700, 320],
+   "scale": 2,
+   "startingAnimation": "idle",
+   "zIndex": 2
+  },
+  {
+   "animations": [
+    {
+     "animType": null,
+     "assetPath": null,
+     "atlasSettings": null,
+     "frameRate": 12,
+     "looped": true,
+     "name": "idle",
+     "prefix": "right speakers",
+     "renderType": null
+    }
+   ],
+   "assetPath": "AmTakeStage/right-speakers",
+   "atlasSettings": null,
+   "name": "right",
+   "position": [1200, 250],
+   "scale": 2,
+   "startingAnimation": "idle",
+   "zIndex": 2
+  },
+  {
+   "assetPath": "AmTakeStage/stageframe",
+   "atlasSettings": null,
+   "name": "stageframe",
+   "position": [-959, -400],
+   "scale": 2,
+   "scroll": [1.2, 1.2],
+   "startingAnimation": "",
+   "zIndex": 3
+  },
+  {
+   "assetPath": "AmTakeStage/stagecurtains",
+   "atlasSettings": null,
+   "name": "stagecurtains",
+   "position": [-1004, -590],
+   "scale": 2,
+   "scroll": [1.3, 1.3],
+   "startingAnimation": "",
+   "zIndex": 6
+  },
+  {
+   "assetPath": "AmTakeStage/stagecurtains",
+   "atlasSettings": null,
+   "flipX": true,
+   "name": "stagecurtains (1)",
+   "position": [1944, -595],
+   "scale": 2,
+   "scroll": [1.3, 1.3],
+   "startingAnimation": "",
+   "zIndex": 6
+  },
+  {
+   "assetPath": "AmTakeStage/stagecurtains",
+   "atlasSettings": null,
+   "flipX": true,
+   "name": "stagecurtains (1) (1)",
+   "position": [-3894, -595],
+   "scale": 2,
+   "scroll": [1.3, 1.3],
+   "startingAnimation": "",
+   "zIndex": 6
+  },
+  {
+   "animations": [
+    {
+     "animType": null,
+     "assetPath": null,
+     "atlasSettings": null,
+     "looped": true,
+     "name": "idle",
+     "prefix": "bg dumbs",
+     "renderType": null
+    }
+   ],
+   "assetPath": "AmTakeStage/bg-dumbs-1",
+   "atlasSettings": null,
+   "name": "bg-dumbs-1",
+   "position": [-900, 850],
+   "scale": 2,
+   "startingAnimation": "idle",
+   "zIndex": 7
+  },
+  {
+   "animations": [
+    {
+     "animType": null,
+     "assetPath": null,
+     "atlasSettings": null,
+     "looped": true,
+     "name": "idle",
+     "prefix": "bg dumbs",
+     "renderType": null
+    }
+   ],
+   "assetPath": "AmTakeStage/bg-dumbs-2",
+   "atlasSettings": null,
+   "name": "dumbs2",
+   "position": [-900, 850],
+   "scale": 2,
+   "startingAnimation": "idle",
+   "zIndex": 8
+  }
+ ],
+ "characters": {
+  "bf": {
+   "cameraOffsets": [-300, 100],
+   "position": [1032, 391],
+   "zIndex": 99
+  },
+  "dad": {
+   "cameraOffsets": [250, -200],
+   "position": [41.2, 994.8],
+   "zIndex": 101
+  },
+  "gf": {
+   "cameraOffsets": [200, 0],
+   "position": [443, 645],
+   "zIndex": 99
+  }
+ },
+ "cameraZoom": 0.6
+}
