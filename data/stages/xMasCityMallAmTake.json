@@ -1,0 +1,1247 @@
+{
+  "version": "1.0.2",
+  "name": "xMasCityMallAmTake",
+  "props": [
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "none",
+      "animations": [],
+      "assetPath": "stages/xMassCityMall/mall back",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "mallBack",
+      "position": [
+        -900,
+        -1045
+      ],
+      "scale": 4,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "",
+      "zIndex": 547
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": true,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "ceiling star"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/ceiling toys",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "star",
+      "position": [
+        -200,
+        -700
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 553
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": true,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "ceiling ball0000"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/ceiling toys",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "ball",
+      "position": [
+        600,
+        -700
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 560
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": true,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "ceiling ball 2"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/ceiling toys",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "ball2",
+      "position": [
+        1200,
+        -700
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 567
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": true,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "ceiling toy"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/ceiling toys",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "toy",
+      "position": [
+        1400,
+        -700
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 574
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "escalator far"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/mall rails",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "escalatorFarL",
+      "position": [
+        150,
+        -300
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 581
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "escalator far"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/mall rails",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "escalatorFarR",
+      "position": [
+        700,
+        -300
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 588
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "rail freaks left"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/rail peps",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "boppersLeft",
+      "position": [
+        -835,
+        -275
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 595
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "rail freaks right"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/rail peps",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "boppersRight",
+      "position": [
+        1550,
+        -235
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 601
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "main rail freaks"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/rail peps",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "boppersMain",
+      "position": [
+        100,
+        -150
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 607
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "miku"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/rail peps",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "boppersMiku",
+      "position": [
+        985,
+        -125
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 613
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "monster far"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/rail peps",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "boppersMonster",
+      "position": [
+        1175,
+        -150
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 619
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "up rail"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/mall rails",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "upRails",
+      "position": [
+        -900,
+        -945
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 625
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "far rail"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/mall rails",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "xMasFarRail",
+      "position": [
+        75,
+        25
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 631
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": true,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "escalator down"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/escalator",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "escalatorL",
+      "position": [
+        -70,
+        20
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 637
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "main rail"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/mall rails",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "sideRailL",
+      "position": [
+        -1050,
+        -135
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 644
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": true,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "escalator up"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/escalator",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "escalatorR",
+      "position": [
+        1000,
+        20
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 651
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "main rail"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/mall rails",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "sideRailR",
+      "position": [
+        1175,
+        -135
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 657
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "none",
+      "animations": [],
+      "assetPath": "stages/xMassCityMall/big-ass-candy",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "fgCandy",
+      "position": [
+        650,
+        -50
+      ],
+      "scale": 0.9,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "",
+      "zIndex": 663
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "none",
+      "animations": [],
+      "assetPath": "stages/xMassCityMall/snow",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "fgSnow",
+      "position": [
+        -1200,
+        450
+      ],
+      "scale": 4,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "",
+      "zIndex": 668
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 100,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "tv add 2"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/tvRight",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "tvRight",
+      "position": [
+        1650,
+        10
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 673
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 100,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "tv add"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/tvLeft",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "tvLeft",
+      "position": [
+        -600,
+        10
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 679
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "pico school gang"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/pico school gang",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "PSGang",
+      "position": [
+        -760,
+        100
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 685
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "zona idle"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/zona bg",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "ZonaHuh",
+      "position": [
+        900,
+        -75
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 691
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "danceLeft",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "nightmare cops idle0"
+        },
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "danceRight",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "nightmare cops idle2"
+        },
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "laugh",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "laught nightmarecops', '0, 1, 2, 3, 4, 5, 6, 7, 0, 1, 2, 3, 4, 5, 6, 7, 0, 1, 2, 3, 4, 5, 6, 7"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/nightmare cops bg",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "CopsWithCocks",
+      "position": [
+        1450,
+        125
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "laugh",
+      "zIndex": 698
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "none",
+      "animations": [],
+      "assetPath": "stages/xMassCityMall/tree",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "xmasTree",
+      "position": [
+        250,
+        -550
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "",
+      "zIndex": 709
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "tree lights"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/tree lights",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "xmasTreeLights",
+      "position": [
+        280,
+        -275
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 714
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "crushers idle"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/castle crushers",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "custleCrushers",
+      "position": [
+        0,
+        -165
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 720
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [
+        {
+          "assetPath": null,
+          "flipX": false,
+          "flipY": false,
+          "frameIndices": [],
+          "frameRate": 24,
+          "looped": false,
+          "name": "i",
+          "offsets": [
+            0,
+            0
+          ],
+          "prefix": "santa sit scary"
+        }
+      ],
+      "assetPath": "stages/xMassCityMall/santa",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "santa",
+      "position": [
+        -750,
+        300
+      ],
+      "scale": 2,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "i",
+      "zIndex": 726
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "none",
+      "animations": [],
+      "assetPath": "stages/xMassCityMall/snowman",
+      "atlasSettings": null,
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "snowman",
+      "position": [
+        1400,
+        550
+      ],
+      "scale": 1,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "",
+      "zIndex": 732
+    }
+  ],
+  "characters": {
+    "bf": {
+      "alpha": 1,
+      "angle": 0,
+      "cameraOffsets": [
+        -300,
+        -350
+      ],
+      "position": [
+        1945,
+        890
+      ],
+      "scale": 1,
+      "scroll": [
+        1,
+        1
+      ],
+      "zIndex": 300
+    },
+    "dad": {
+      "alpha": 1,
+      "angle": 0,
+      "cameraOffsets": [
+        150,
+        -250
+      ],
+      "position": [
+        -20,
+        920
+      ],
+      "scale": 1,
+      "scroll": [
+        1,
+        1
+      ],
+      "zIndex": 200
+    },
+    "gf": {
+      "alpha": 1,
+      "angle": 0,
+      "cameraOffsets": [
+        0,
+        -150
+      ],
+      "position": [
+        780,
+        854
+      ],
+      "scale": 1,
+      "scroll": [
+        1,
+        1
+      ],
+      "zIndex": 100
+    }
+  },
+  "cameraZoom": 0.45,
+  "directory": "shared"
+}
