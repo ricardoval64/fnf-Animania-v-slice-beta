@@ -1,0 +1,43 @@
+{
+ "version": "2.2.4",
+ "songName": "Fresh AMTake",
+ "artist": "d4rkwinged",
+ "charter": "Harxeret",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "bf_amtake",
+   "girlfriend": "gf_amtake",
+   "opponent": "dad_amtake",
+   "opponentVocals": [
+    "dad_amtake"
+   ],
+   "playerVocals": [
+    "bf_amtake"
+   ]
+  },
+  "stage": "main-AN",
+  "noteStyle": "Animania",
+  "ratings": {
+   "easy": 6,
+   "normal": 7,
+   "hard": 8
+  },
+  "album": "AMTake",
+  "previewEnd": 0
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.4",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 120,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}
