@@ -1,0 +1,40 @@
+{
+    "danceEvery": 1,
+    "offsets": [
+        15.0,
+        -57.5
+    ],
+    "renderType": "sparrow",
+    "version": "1.0.6",
+    "scale": 1.8,
+    "flipX": false,
+    "cameraOffsets": [
+        0,
+        0
+    ],
+    "name": "dad_face",
+    "flipY": false,
+    "singTime": 6.1,
+    "isPixel": false,
+    "startingAnimation": "idle",
+    "assetPath": "characters/dad_face",
+    "healthIcon": {
+        "id": "dad-AMTake"
+    },
+    "animations": [
+        {
+            "offsets": [
+                0.25,
+                17.5
+            ],
+            "frameIndices": [],
+            "prefix": "dark",
+            "flipX": false,
+            "looped": false,
+            "name": "idle",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 32
+        }
+    ]
+}

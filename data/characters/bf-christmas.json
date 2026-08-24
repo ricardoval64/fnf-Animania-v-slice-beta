@@ -1,0 +1,748 @@
+{
+	"version": "1.0.1",
+	"renderType": "multisparrow",
+	"offsets": [
+		-5,
+		45
+	],
+	"danceEvery": 2,
+	"applyStageMatrix": false,
+	"scale": 2,
+	"name": "bf-christmas",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": true,
+	"isPixel": false,
+	"singTime": 4,
+	"startingAnimation": "idle",
+	"healthIcon": {
+		"shouldBop": true,
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"flipX": true,
+		"id": "bf-amtake"
+	},
+	"assetPath": "characters/amtakechristmasbf",
+	"atlasSettings": {
+		"swfMode": true,
+		"applyStageMatrix": false,
+		"useRenderTexture": false,
+		"filterQuality": 1,
+		"cacheOnLoad": false
+	},
+	"animations": [
+		{
+			"offsets": [
+				-48,
+				71
+			],
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"prefix": "pre attack",
+			"looped": false,
+			"name": "pre-attack",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 20
+		},
+		{
+			"offsets": [
+				-49,
+				68
+			],
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"prefix": "dodge 2",
+			"looped": false,
+			"name": "dodge",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				296,
+				276
+			],
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27
+			],
+			"prefix": "parry",
+			"looped": false,
+			"name": "hurt",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				309,
+				149
+			],
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50
+			],
+			"prefix": "attack",
+			"looped": false,
+			"name": "attack",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-22,
+				71
+			],
+			"frameIndices": [],
+			"prefix": "left",
+			"looped": false,
+			"name": "singLEFT",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-51,
+				75
+			],
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"prefix": "right",
+			"looped": false,
+			"name": "singRIGHT",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-40,
+				43
+			],
+			"frameIndices": [],
+			"prefix": "down",
+			"looped": false,
+			"name": "singDOWN",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-39,
+				59
+			],
+			"frameIndices": [],
+			"prefix": "alt down",
+			"looped": false,
+			"name": "singDOWN-altA",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-47,
+				90
+			],
+			"frameIndices": [],
+			"prefix": "alt up",
+			"looped": false,
+			"name": "singUP-altA",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-40,
+				47
+			],
+			"frameIndices": [],
+			"prefix": "fresh down",
+			"looped": false,
+			"name": "singDOWN-altC",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-45,
+				90
+			],
+			"frameIndices": [],
+			"prefix": "up",
+			"looped": false,
+			"name": "singUP",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-47,
+				90
+			],
+			"frameIndices": [],
+			"prefix": "xmas up",
+			"looped": false,
+			"name": "singUP-altB",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-51,
+				94
+			],
+			"frameIndices": [],
+			"prefix": "fresh up",
+			"looped": false,
+			"name": "singUP-altC",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-51,
+				75
+			],
+			"frameIndices": [],
+			"prefix": "fresh right",
+			"looped": false,
+			"name": "singRIGHT-altC",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-22,
+				71
+			],
+			"frameIndices": [],
+			"prefix": "xmas left",
+			"looped": false,
+			"name": "singLEFT-altB",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-20,
+				71
+			],
+			"frameIndices": [],
+			"prefix": "fresh left",
+			"looped": false,
+			"name": "singLEFT-altC",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-22,
+				71
+			],
+			"frameIndices": [],
+			"prefix": "alt left",
+			"looped": false,
+			"name": "singLEFT-altA",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-50,
+				75
+			],
+			"frameIndices": [],
+			"prefix": "xmas right",
+			"looped": false,
+			"name": "singRIGHT-altB",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-50,
+				75
+			],
+			"frameIndices": [],
+			"prefix": "alt right",
+			"looped": false,
+			"name": "singRIGHT-altA",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-39,
+				47
+			],
+			"frameIndices": [],
+			"prefix": "xmas down",
+			"looped": false,
+			"name": "singDOWN-altB",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-40,
+				74
+			],
+			"frameIndices": [
+				0,
+				1,
+				2
+			],
+			"prefix": "hey",
+			"looped": false,
+			"name": "hey",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-35,
+				72
+			],
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"prefix": "idle",
+			"looped": false,
+			"name": "idle",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 14
+		},
+		{
+			"offsets": [
+				-22,
+				69
+			],
+			"prefix": "death start",
+			"frameIndices": [],
+			"looped": false,
+			"name": "firstDeath",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": "characters/bf-classic-dead",
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-33,
+				65
+			],
+			"prefix": "death loop",
+			"frameIndices": [],
+			"looped": true,
+			"name": "deathLoop",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": "characters/bf-classic-dead",
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-30,
+				154
+			],
+			"prefix": "death enter",
+			"frameIndices": [],
+			"looped": false,
+			"name": "deathConfirm",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": "characters/bf-classic-dead",
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-40,
+				43
+			],
+			"frameIndices": [],
+			"prefix": "miss down",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singDOWNmiss",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-39,
+				59
+			],
+			"frameIndices": [],
+			"prefix": "miss alt down",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singDOWNmiss-altA",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-39,
+				47
+			],
+			"frameIndices": [],
+			"prefix": "miss xmas down",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singDOWNmiss-altB",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-40,
+				47
+			],
+			"frameIndices": [],
+			"prefix": "miss fresh down",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singDOWNmiss-altC",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-45,
+				90
+			],
+			"frameIndices": [],
+			"prefix": "miss up",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singUPmiss",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-47,
+				90
+			],
+			"frameIndices": [],
+			"prefix": "miss alt up",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singUPmiss-altA",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-47,
+				90
+			],
+			"frameIndices": [],
+			"prefix": "miss xmas up",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singUPmiss-altB",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-51,
+				94
+			],
+			"frameIndices": [],
+			"prefix": "miss fresh up",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singUPmiss-altC",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-22,
+				71
+			],
+			"frameIndices": [],
+			"prefix": "miss left",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singLEFTmiss",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-22,
+				71
+			],
+			"frameIndices": [],
+			"prefix": "miss alt left",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singLEFTmiss-altA",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-22,
+				71
+			],
+			"frameIndices": [],
+			"prefix": "miss xmas left",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singLEFTmiss-altB",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-20,
+				71
+			],
+			"frameIndices": [],
+			"prefix": "miss fresh left",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singLEFTmiss-altC",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-51,
+				75
+			],
+			"frameIndices": [],
+			"prefix": "miss right",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singRIGHTmiss",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-50,
+				75
+			],
+			"frameIndices": [],
+			"prefix": "miss alt right",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singRIGHTmiss-altA",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-50,
+				75
+			],
+			"frameIndices": [],
+			"prefix": "miss xmas right",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singRIGHTmiss-altB",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		},
+		{
+			"offsets": [
+				-51,
+				75
+			],
+			"frameIndices": [],
+			"prefix": "miss fresh right",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singRIGHTmiss-altC",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 14,
+			"assetPath": "characters/xmasmisses"
+		}
+	]
+}

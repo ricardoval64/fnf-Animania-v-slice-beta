@@ -1,0 +1,614 @@
+{
+    "danceEvery": 1,
+    "offsets": [
+        20.0,
+        180.0
+    ],
+    "renderType": "sparrow",
+    "version": "1.0.7",
+    "scale": 2.0,
+    "flipX": true,
+    "cameraOffsets": [
+        0,
+        0
+    ],
+    "name": "bf_amtake",
+    "flipY": false,
+    "singTime": 4,
+    "isPixel": false,
+    "startingAnimation": "idle",
+    "assetPath": "characters/Bf_Animania",
+    "healthIcon": {
+        "id": "bf-AMTake"
+    },
+    "animations": [
+        {
+            "offsets": [
+                5.0,
+                -6.5
+            ],
+            "frameIndices": [],
+            "prefix": "idle",
+            "flipX": false,
+            "looped": false,
+            "name": "idle",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                11.5,
+                -8.5
+            ],
+            "frameIndices": [],
+            "prefix": "left0",
+            "flipX": false,
+            "looped": false,
+            "name": "singLEFT",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -3.0,
+                -24.0
+            ],
+            "frameIndices": [],
+            "prefix": "down0",
+            "flipX": false,
+            "looped": false,
+            "name": "singDOWN",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -12.0,
+                18.0
+            ],
+            "frameIndices": [],
+            "prefix": "up0",
+            "flipX": false,
+            "looped": false,
+            "name": "singUP",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -10.5,
+                -3.0
+            ],
+            "frameIndices": [],
+            "prefix": "right0",
+            "flipX": false,
+            "looped": false,
+            "name": "singRIGHT",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                16.0,
+                -7.5
+            ],
+            "frameIndices": [],
+            "prefix": "alt left0",
+            "flipX": false,
+            "looped": false,
+            "name": "singLEFT-alt",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                2.0,
+                -19.0
+            ],
+            "frameIndices": [],
+            "prefix": "alt down0",
+            "flipX": false,
+            "looped": false,
+            "name": "singDOWN-alt",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -16.0,
+                16.5
+            ],
+            "frameIndices": [],
+            "prefix": "alt up0",
+            "flipX": false,
+            "looped": false,
+            "name": "singUP-alt",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -12.5,
+                -2.5
+            ],
+            "frameIndices": [],
+            "prefix": "alt right0",
+            "flipX": false,
+            "looped": false,
+            "name": "singRIGHT-alt",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                15.5,
+                -8.0
+            ],
+            "frameIndices": [],
+            "prefix": "fresh left0",
+            "flipX": false,
+            "looped": false,
+            "name": "singLEFT-fresh",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                2.0,
+                -29.0
+            ],
+            "frameIndices": [],
+            "prefix": "fresh down0",
+            "flipX": false,
+            "looped": false,
+            "name": "singDOWN-fresh",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -16.0,
+                16.5
+            ],
+            "frameIndices": [],
+            "prefix": "fresh up0",
+            "flipX": false,
+            "looped": false,
+            "name": "singUP-fresh",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -13.0,
+                -3.0
+            ],
+            "frameIndices": [],
+            "prefix": "fresh right0",
+            "flipX": false,
+            "looped": false,
+            "name": "singRIGHT-fresh",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                10.5,
+                -8.0
+            ],
+            "frameIndices": [],
+            "prefix": "beat left0",
+            "flipX": false,
+            "looped": false,
+            "name": "singLEFT-beat",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -1.5,
+                -22.5
+            ],
+            "frameIndices": [],
+            "prefix": "beat down0",
+            "flipX": false,
+            "looped": false,
+            "name": "singDOWN-beat",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -13.5,
+                21.5
+            ],
+            "frameIndices": [],
+            "prefix": "beat up0",
+            "flipX": false,
+            "looped": false,
+            "name": "singUP-beat",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -12.0,
+                -3.0
+            ],
+            "frameIndices": [],
+            "prefix": "beat right0",
+            "flipX": false,
+            "looped": false,
+            "name": "singRIGHT-beat",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                10.5,
+                -8.0
+            ],
+            "frameIndices": [],
+            "prefix": "beat left0",
+            "flipX": false,
+            "looped": false,
+            "name": "beatL",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -1.5,
+                -22.5
+            ],
+            "frameIndices": [],
+            "prefix": "beat down0",
+            "flipX": false,
+            "looped": false,
+            "name": "beatD",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -13.5,
+                21.5
+            ],
+            "frameIndices": [],
+            "prefix": "beat up0",
+            "flipX": false,
+            "looped": false,
+            "name": "beatU",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -12.0,
+                -3.0
+            ],
+            "frameIndices": [],
+            "prefix": "beat right0",
+            "flipX": false,
+            "looped": false,
+            "name": "beatR",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -13.0,
+                -3.0
+            ],
+            "frameIndices": [],
+            "prefix": "beat twist0",
+            "flipX": false,
+            "looped": false,
+            "name": "twist",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                12.0,
+                -8.5
+            ],
+            "frameIndices": [],
+            "prefix": "left miss0",
+            "flipX": false,
+            "looped": false,
+            "name": "singLEFTmiss",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -1.0,
+                -27.0
+            ],
+            "frameIndices": [],
+            "prefix": "down miss0",
+            "flipX": false,
+            "looped": false,
+            "name": "singDOWNmiss",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -12.0,
+                20.5
+            ],
+            "frameIndices": [],
+            "prefix": "up miss0",
+            "flipX": false,
+            "looped": false,
+            "name": "singUPmiss",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -9.0,
+                -3.0
+            ],
+            "frameIndices": [],
+            "prefix": "right miss0",
+            "flipX": false,
+            "looped": false,
+            "name": "singRIGHTmiss",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                16.0,
+                -8.0
+            ],
+            "frameIndices": [],
+            "prefix": "alt left miss0",
+            "flipX": false,
+            "looped": false,
+            "name": "singLEFTmiss-alt",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -1.0,
+                -17.0
+            ],
+            "frameIndices": [],
+            "prefix": "alt down miss0",
+            "flipX": false,
+            "looped": false,
+            "name": "singDOWNmiss-alt",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -12.0,
+                15.5
+            ],
+            "frameIndices": [],
+            "prefix": "alt up miss0",
+            "flipX": false,
+            "looped": false,
+            "name": "singUPmiss-alt",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -9.0,
+                -3.0
+            ],
+            "frameIndices": [],
+            "prefix": "alt right miss0",
+            "flipX": false,
+            "looped": false,
+            "name": "singRIGHTmiss-alt",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                15.5,
+                -11.5
+            ],
+            "frameIndices": [],
+            "prefix": "fresh left miss0",
+            "flipX": false,
+            "looped": false,
+            "name": "singLEFTmiss-fresh",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -1.0,
+                -22.0
+            ],
+            "frameIndices": [],
+            "prefix": "fresh down miss0",
+            "flipX": false,
+            "looped": false,
+            "name": "singDOWNmiss-fresh",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -12.0,
+                15.5
+            ],
+            "frameIndices": [],
+            "prefix": "fresh up miss0",
+            "flipX": false,
+            "looped": false,
+            "name": "singUPmiss-fresh",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -9.0,
+                -3.0
+            ],
+            "frameIndices": [],
+            "prefix": "fresh right miss0",
+            "flipX": false,
+            "looped": false,
+            "name": "singRIGHTmiss-fresh",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                3.0,
+                -6.0
+            ],
+            "frameIndices": [],
+            "prefix": "scared0",
+            "flipX": false,
+            "looped": false,
+            "name": "scared",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                4.5,
+                -3.0
+            ],
+            "frameIndices": [],
+            "prefix": "hey0",
+            "flipX": false,
+            "looped": false,
+            "name": "hey",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                179.5,
+                51.0
+            ],
+            "frameIndices": [],
+            "prefix": "oops0",
+            "flipX": false,
+            "looped": false,
+            "name": "oops",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 12
+        },
+        {
+            "offsets": [
+                4.5,
+                -3.0
+            ],
+            "frameIndices": [
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14,
+                14
+            ],
+            "prefix": "hey0",
+            "flipX": false,
+            "looped": false,
+            "name": "hey-long",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+	"version": "1.0.1",
+	"renderType": "sparrow",
+	"offsets": [
+		-100,
+		-50
+	],
+	"danceEvery": 1,
+	"applyStageMatrix": false,
+	"scale": 2,
+	"name": "gf-christmas",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": false,
+	"isPixel": false,
+	"singTime": 4,
+	"startingAnimation": "danceRight",
+	"healthIcon": {
+		"isPixel": false,
+		"shouldBop": true,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "gf",
+		"flipX": false
+	},
+	"assetPath": "characters/amtakexmasgf",
+	"atlasSettings": {
+		"swfMode": true,
+		"applyStageMatrix": false,
+		"useRenderTexture": false,
+		"filterQuality": 1,
+		"cacheOnLoad": false
+	},
+	"animations": [
+		{
+			"offsets": [
+				-212,
+				-40
+			],
+			"frameIndices": [],
+			"prefix": "danceRight",
+			"looped": false,
+			"name": "danceRight",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-204,
+				-58
+			],
+			"frameIndices": [],
+			"prefix": "cry",
+			"looped": false,
+			"name": "sad",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-215,
+				-50
+			],
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"prefix": "comb250",
+			"looped": false,
+			"name": "cheer",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-211,
+				-40
+			],
+			"frameIndices": [],
+			"prefix": "danceLeft",
+			"looped": false,
+			"name": "danceLeft",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-207,
+				-66
+			],
+			"frameIndices": [],
+			"prefix": "coun1",
+			"looped": false,
+			"name": "count1",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-206,
+				-47
+			],
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"prefix": "coun2",
+			"looped": false,
+			"name": "count2",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-203,
+				-43
+			],
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"prefix": "coun3",
+			"looped": false,
+			"name": "count3",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-202,
+				-44
+			],
+			"frameIndices": [],
+			"prefix": "penis",
+			"looped": false,
+			"name": "countgo",
+			"flipX": false,
+			"animType": "framelabel",
+			"flipY": false,
+			"frameRate": 24
+		}
+	]
+}

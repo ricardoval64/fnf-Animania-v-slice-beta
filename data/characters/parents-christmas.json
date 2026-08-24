@@ -1,0 +1,191 @@
+{
+	"version": "1.0.1",
+	"renderType": "multisparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 2,
+	"applyStageMatrix": false,
+	"scale": 2,
+	"name": "parents-christmas",
+	"cameraOffsets": [
+		130,
+		0
+	],
+	"flipX": false,
+	"isPixel": false,
+	"singTime": 4,
+	"startingAnimation": "idle",
+	"healthIcon": {
+		"shouldBop": true,
+		"isPixel": false,
+		"offsets": [
+			10,
+			0
+		],
+		"scale": 1.2,
+		"flipX": false,
+		"id": "parents-amtake"
+	},
+	"assetPath": "characters/amtakeparents",
+	"atlasSettings": {
+		"applyStageMatrix": false,
+		"useRenderTexture": false,
+		"filterQuality": 1,
+		"cacheOnLoad": false,
+		"swfMode": true
+	},
+	"animations": [
+		{
+			"offsets": [
+				-47,
+				-1
+			],
+			"frameIndices": [],
+			"prefix": "P IDLE NORMAL",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "idle",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-46,
+				-2
+			],
+			"frameIndices": [],
+			"prefix": "p right mom",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singRIGHT-alt",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-46,
+				-15
+			],
+			"frameIndices": [],
+			"prefix": "p down mom",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singDOWN-alt",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-48,
+				8
+			],
+			"frameIndices": [],
+			"prefix": "p left mom",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singLEFT-alt",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-47,
+				15
+			],
+			"frameIndices": [],
+			"prefix": "p up mom",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singUP-alt",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-47,
+				12
+			],
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"prefix": "p up dad",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singUP",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-46,
+				-9
+			],
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"prefix": "p down dad",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singDOWN",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-47,
+				8
+			],
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"prefix": "p left dad",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singLEFT",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-46,
+				-2
+			],
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"prefix": "p right dad",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "singRIGHT",
+			"looped": false,
+			"flipY": false,
+			"frameRate": 24
+		}
+	]
+}

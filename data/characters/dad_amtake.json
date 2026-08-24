@@ -1,0 +1,306 @@
+{
+    "danceEvery": 1,
+    "offsets": [
+        0.0,
+        -15.0
+    ],
+    "renderType": "sparrow",
+    "version": "1.0.6",
+    "scale": 1.6,
+    "flipX": false,
+    "cameraOffsets": [
+        0,
+        0
+    ],
+    "name": "dad_amtake",
+    "flipY": false,
+    "singTime": 6.1,
+    "isPixel": false,
+    "startingAnimation": "idle",
+    "assetPath": "characters/Daddy_Dearest",
+    "healthIcon": {
+        "id": "dad-AMTake"
+    },
+    "animations": [
+        {
+            "offsets": [
+                0.5,
+                35.0
+            ],
+            "frameIndices": [],
+            "prefix": "left0",
+            "flipX": false,
+            "looped": false,
+            "name": "singLEFT",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                2.5,
+                20.0
+            ],
+            "frameIndices": [],
+            "prefix": "down0",
+            "flipX": false,
+            "looped": false,
+            "name": "singDOWN",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -3.0,
+                55.0
+            ],
+            "frameIndices": [],
+            "prefix": "up0",
+            "flipX": false,
+            "looped": false,
+            "name": "singUP",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                0.0,
+                39.5
+            ],
+            "frameIndices": [],
+            "prefix": "right0",
+            "flipX": false,
+            "looped": false,
+            "name": "singRIGHT",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -3.0,
+                62.5
+            ],
+            "frameIndices": [],
+            "prefix": "up miss",
+            "flipX": false,
+            "looped": false,
+            "name": "singUP-miss",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                0.0,
+                39.5
+            ],
+            "frameIndices": [],
+            "prefix": "right miss",
+            "flipX": false,
+            "looped": false,
+            "name": "singRIGHT-miss",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -2.5,
+                29.5
+            ],
+            "frameIndices": [],
+            "prefix": "mockery",
+            "flipX": false,
+            "looped": false,
+            "name": "lol",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                0.0,
+                22.0
+            ],
+            "frameIndices": [],
+            "prefix": "nervous idle",
+            "flipX": false,
+            "looped": false,
+            "name": "idle-alt",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -2.5,
+                22.0
+            ],
+            "frameIndices": [],
+            "prefix": "uh idle",
+            "flipX": false,
+            "looped": false,
+            "name": "idle-uh",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                4.5,
+                35.0
+            ],
+            "frameIndices": [],
+            "prefix": "beat left0",
+            "flipX": false,
+            "looped": false,
+            "name": "singLEFT-beat",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                10.0,
+                20.0
+            ],
+            "frameIndices": [],
+            "prefix": "beat down0",
+            "flipX": false,
+            "looped": false,
+            "name": "singDOWN-beat",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -3.0,
+                55.0
+            ],
+            "frameIndices": [],
+            "prefix": "beat up0",
+            "flipX": false,
+            "looped": false,
+            "name": "singUP-beat",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                0.0,
+                38.5
+            ],
+            "frameIndices": [],
+            "prefix": "beat right0",
+            "flipX": false,
+            "looped": false,
+            "name": "singRIGHT-beat",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                4.5,
+                35.0
+            ],
+            "frameIndices": [],
+            "prefix": "beat left0",
+            "flipX": false,
+            "looped": false,
+            "name": "beatL",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                10.0,
+                20.0
+            ],
+            "frameIndices": [],
+            "prefix": "beat down0",
+            "flipX": false,
+            "looped": false,
+            "name": "beatD",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -3.0,
+                55.0
+            ],
+            "frameIndices": [],
+            "prefix": "beat up0",
+            "flipX": false,
+            "looped": false,
+            "name": "beatU",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                0.0,
+                38.5
+            ],
+            "frameIndices": [],
+            "prefix": "beat right0",
+            "flipX": false,
+            "looped": false,
+            "name": "beatR",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                0.0,
+                20.0
+            ],
+            "frameIndices": [],
+            "prefix": "idle",
+            "flipX": false,
+            "looped": false,
+            "name": "idle",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                -5.0,
+                30.0
+            ],
+            "frameIndices": [],
+            "prefix": "mockery0",
+            "flipX": false,
+            "looped": false,
+            "name": "mockery",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        },
+        {
+            "offsets": [
+                0.0,
+                20.0
+            ],
+            "frameIndices": [],
+            "prefix": "nervous idle0",
+            "flipX": false,
+            "looped": false,
+            "name": "idle-nervous",
+            "flipY": false,
+            "assetPath": null,
+            "frameRate": 24
+        }
+    ]
+}
